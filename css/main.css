@@ -25,10 +25,9 @@ h1 {
   font-size: 25px;
   margin-top: 30px;
   margin-left: 31px;
-  margin-bottom: 31px;
+  margin-bottom: 30px;
   letter-spacing: 2px;
 }
-
 
 .main-features li {
   margin-left: 29px;
@@ -38,6 +37,9 @@ h1 {
   letter-spacing: 1px;
 }
 
+
+
+
 .content p {
   font-size: 16px;
   line-height: 32px;
@@ -45,7 +47,7 @@ h1 {
 
 
 .content h2{
-  font-size: 24px;
+  font-size: 22px;
   color: #F07C17;
   margin-top: 0;
   margin-bottom: 32px;
