@@ -7,13 +7,13 @@ body {
 h1 {
   font-size: 46px;
   margin-top: 46px;
-  margin-bottom: 30px;
+  margin-bottom: 31px;
   letter-spacing: 1px;
 }
 
 
 .main-features {
-  margin-top: 31px;
+  margin-top: 30px;
   height: 224px;
   border-color: #CCCCCC;
   border-style: solid;
@@ -49,6 +49,7 @@ h1 {
   color: #F07C17;
   margin-top: 0;
   margin-bottom: 32px;
+  letter-spacing: 2px;
 }
 
 /*.mockup-overlay {
